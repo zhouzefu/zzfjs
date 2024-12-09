@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "publish": "npm publish --access=public"
+    "publish": "pnpm publish --access=public"
   },
   "keywords": [
     "zzfjs"
