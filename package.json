@@ -1,0 +1,14 @@
+{
+  "name": "zzfjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
+  "keywords": [
+    "zzfjs"
+  ],
+  "author": "zhouzefu@126.com",
+  "license": "ISC",
+  "description": "个人项目通用js代码"
+}
